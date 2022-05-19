@@ -1,0 +1,47 @@
+
+h1{color: #123A13;}
+h2{color: white;}
+p {color: white;}
+body {
+background-color: #7A918D;
+
+} 
+
+.first-picture {
+	height: 300px;
+	width: 600px;
+	object-fit: cover;
+
+}
+
+.picture-portrait {
+	width: 200px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.center-content {
+	text-align: center;
+}
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+.link-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 2%;
+	border: 2px solid White;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #123A13;
+	font-weight: 900;
+}
