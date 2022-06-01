@@ -36,6 +36,13 @@ background-color: #7A918D;
 	border: 2px solid White;
 }
 
+.portrait {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+
 a {
 	color: white;
 	text-decoration: none;
@@ -45,3 +52,5 @@ a:hover{
 	color: #123A13;
 	font-weight: 900;
 }
+
+a {font-family: Courier New;}
