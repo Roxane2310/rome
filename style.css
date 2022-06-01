@@ -54,3 +54,27 @@ a:hover{
 }
 
 a {font-family: Courier New;}
+
+#p1{
+	margin: 20px;
+	background-color: white;
+}
+
+#p1{
+	color: #7A918D;
+}
+
+
+#infos {
+	margin: auto;
+	background: white;
+	width: 100%;
+}
+
+#titre2 {
+	color: #7A918D;
+}
+
+#p2 {
+	color: #7A918D;
+}
